@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdasdadasjioanonsica
+=======
+sdasdad
+asdasd
+>>>>>>> Yifang
