@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Yifang's submission
-=======
-2nd submission
->>>>>>> Yifang
 =======
 2nd submission
 3rd submission
