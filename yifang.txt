@@ -1,2 +1,5 @@
 <<<<<<< HEAD
 Yifang's submission
+=======
+2nd submission
+>>>>>>> Yifang
